@@ -2,7 +2,7 @@
   "projects": [
     {
       "id": 1,
-      "project-name": "Random Quote Generator",
+      "project-name": "Random Quotes",
       "description": "Display a random quote at the click of a button",
       "technologies": [
         "HTML",
