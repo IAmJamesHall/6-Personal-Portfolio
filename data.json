@@ -125,8 +125,8 @@
     },
     {
       "id": 8,
-      "project-name": "Authenticated Course Manager",
-      "description": "Full-stack course manager; authentication & CRUD operations supported",
+      "project-name": "Authenticated Course Directory",
+      "description": "Full-stack course directory; authentication & CRUD operations supported",
       "technologies": [
         "NodeJS",
         "ReactJS",
